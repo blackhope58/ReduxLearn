@@ -1,3 +1,8 @@
-Simple Redux Example
+<h2>Simple Counter App with Redux</h2>
 
-Counter App with Redux
+
+<p align="center">
+  <a>
+    <img width="500px" src="./docs/ss.jpg"><br/>
+  </a>
+</p>
